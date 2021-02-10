@@ -86,11 +86,13 @@
   .other {
       float:left;
       margin-left: 48px;
+      margin-top: 48px;
   }
 
   .other2 {
       float: right;
       margin-right: 48px;
+      margin-top: 48px;
   }
 
   button {
@@ -107,4 +109,19 @@
     display: block;
   }
 
+  .card-title {
+    font-size: 24px;
+    font-family: "Cabin";
+    font-weight: bold;
+  }
+
+  .sectionHeading {
+    text-align: center;
+    font-family: "Cabin";
+    font-weight: bold;
+    background-color: #f10505;
+    color: #fffafa;
+    width: 100%;
+    padding: 16px;
+  }
  
