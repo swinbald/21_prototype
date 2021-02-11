@@ -124,4 +124,10 @@
     width: 100%;
     padding: 16px;
   }
+
+  .jumboH2 {
+    text-align: center;
+    background-color: #fffafa;
+    font-family: "Rubik";
+  }
  
