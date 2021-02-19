@@ -79,27 +79,17 @@
       float:left;
       margin-left: 48px;
       margin-top: 48px;
+      margin-bottom: 48px;
   }
 
   .other2 {
       float: right;
       margin-right: 48px;
       margin-top: 48px;
+      margin-bottom: 48px;
   }
 
-  button {
-    font-size: 16px;
-    font-weight: bold;
-    font-family: "Cabin";
-    background-color: #f10505;
-    color: #fffafa;
-    text-align: center;
-    border: none;
-    padding: 8px 16px;
-    border-radius: 8px;
-    width: 100%;
-    display: block;
-  }
+
 
   .card-title {
     font-size: 24px;
@@ -121,5 +111,13 @@
     text-align: center;
     background-color: #fffafa;
     font-family: "Rubik";
+  }
+
+  .footer {
+    background-color: #f10505;
+    text-align: center;
+    color: #fffafa;
+    font-family: "Rubik";
+    font-weight: bold;
   }
  
